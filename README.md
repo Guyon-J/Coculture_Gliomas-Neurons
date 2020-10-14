@@ -8,7 +8,8 @@ These macros will allow you to
 
 
 ## How to Cite
-Guyon, J., Strale, P-O., Romero-Garmendia, I., Bikfalvi, A., Studer, V. and Daubon, T. XXX, doi:10.3791/60998 (2020).
+Guyon, J., Strale, P-O., Romero-Garmendia, I., Bikfalvi, A., Studer, V. and Daubon, T.
+
 
 
 
