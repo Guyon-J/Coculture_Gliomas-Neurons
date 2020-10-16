@@ -8,6 +8,10 @@ Have a look at the project's [JOVE](https://www.jove.com/v/60998/a-3d-spheroid-m
 Copy and past the .ijm file in the Fiji.app folder > macros > toolsets.
 
 
+img align='left' src="https://github.com/Guyon-J/Coculture_Gliomas-Neurons/blob/main/Images/MultiCellTrack.png" height='50'/>
+
+
+
 ## How to Cite
 Guyon, J., Strale, P-O., Romero-Garmendia, I., Bikfalvi, A., Studer, V. and Daubon, T. DOI: [10.3791/60998](https://dx.doi.org/10.3791/60998)
 
