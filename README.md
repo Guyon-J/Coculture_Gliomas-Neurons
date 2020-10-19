@@ -8,10 +8,11 @@ Have a look at the project's [JOVE](https://www.jove.com/v/60998/a-3d-spheroid-m
 Copy and past the .ijm file in the Fiji.app folder > macros > toolsets.
 
 
-1. [Network Analysis] <br> <img align='left' src="https://github.com/Guyon-J/Coculture_Gliomas-Neurons/blob/main/Images/Network.png" height='40'/> XXX <br><br><hr>
-2. [Single Cell Tracking Analysis] <br> <img align='left' src="https://github.com/Guyon-J/Coculture_Gliomas-Neurons/blob/main/Images/SingleCellTrack.png" height='40'/> XXX <br><br><hr>
-3. [Multi Cell Tracking (preprocessing)] <br> <img align='left' src="https://github.com/Guyon-J/Coculture_Gliomas-Neurons/blob/main/Images/MultiCellTrack.png" height='40'/> XXX <br><br><hr>
-3. [Spheroid Migration] <br> <img align='left' src="https://github.com/Guyon-J/Coculture_Gliomas-Neurons/blob/main/Images/SpheroidMig.png" height='40'/> XXX <br><br><hr>
+## Tool icons
+1. Network Analysis <br> <img align='left' src="https://github.com/Guyon-J/Coculture_Gliomas-Neurons/blob/main/Images/Network.png" height='40'/> XXX <br><br><hr>
+2. Single Cell Tracking Analysis <br> <img align='left' src="https://github.com/Guyon-J/Coculture_Gliomas-Neurons/blob/main/Images/SingleCellTrack.png" height='40'/> XXX <br><br><hr>
+3. Multi Cell Tracking (preprocessing) <br> <img align='left' src="https://github.com/Guyon-J/Coculture_Gliomas-Neurons/blob/main/Images/MultiCellTrack.png" height='40'/> XXX <br><br><hr>
+4. Spheroid Migration <br> <img align='left' src="https://github.com/Guyon-J/Coculture_Gliomas-Neurons/blob/main/Images/SpheroidMig.png" height='40'/> XXX <br><br><hr>
 
 
 
