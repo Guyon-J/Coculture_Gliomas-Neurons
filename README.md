@@ -8,7 +8,7 @@ Have a look at the project's [JOVE](https://www.jove.com/v/60998/a-3d-spheroid-m
 Copy and past the .ijm file in the Fiji.app folder > macros > toolsets.
 
 
-<br> <img align='left' src="https://github.com/Guyon-J/Coculture_Gliomas-Neurons/blob/main/Images/MultiCellTrack.png" height='50'/>
+<br> <img align='left' src="https://github.com/Guyon-J/Coculture_Gliomas-Neurons/blob/main/Images/MultiCellTrack.png" height='50'/> Network <br><br><hr>
 
 
 
