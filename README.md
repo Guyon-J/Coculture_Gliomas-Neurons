@@ -18,7 +18,7 @@ Copy and past the .ijm file in the Fiji.app folder > macros > toolsets.
 
 
 ## How to Cite
-Guyon, J., Strale, P-O., Romero-Garmendia, I., Bikfalvi, A., Studer, V. and Daubon, T. DOI: [10.3791/60998](https://dx.doi.org/10.3791/60998)
+Guyon, J., Strale, P-O., Romero-Garmendia, I., Bikfalvi, A., Studer, V. and Daubon, T. DOI: [In Revision](https://dx.doi.org/10.3791/60998)
 
 
 
