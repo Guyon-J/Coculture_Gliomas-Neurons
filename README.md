@@ -10,15 +10,15 @@ Copy and past the .ijm file in the Fiji.app folder > macros > toolsets.
 
 ## Tool icons
 1. Network Analysis <br> <img align='left' src="https://github.com/Guyon-J/Coculture_Gliomas-Neurons/blob/main/Images/Network.png" height='40'/> The neuronal mat is converted into a simple network and tumor cells are added on the image. It provides information on intercellular contact and cellular morphology. <br><br><hr>
-2. Single Cell Tracking Analysis <br> <img align='left' src="https://github.com/Guyon-J/Coculture_Gliomas-Neurons/blob/main/Images/SingleCellTrack.png" height='40'/> XXX <br><br><hr>
-3. Multi Cell Tracking (preprocessing) <br> <img align='left' src="https://github.com/Guyon-J/Coculture_Gliomas-Neurons/blob/main/Images/MultiCellTrack.png" height='40'/> XXX <br><br><hr>
+2. Single Cell Tracking Analysis <br> <img align='left' src="https://github.com/Guyon-J/Coculture_Gliomas-Neurons/blob/main/Images/SingleCellTrack.png" height='40'/> Using the shape of the cell migration, one cell can be selected and tracked. <br><br><hr>
+3. Multi Cell Tracking (preprocessing) <br> <img align='left' src="https://github.com/Guyon-J/Coculture_Gliomas-Neurons/blob/main/Images/MultiCellTrack.png" height='40'/> Processing steps to binarize the stack and allows its analysis with already developped plugins. <br><br><hr>
 4. Spheroid Migration <br> <img align='left' src="https://github.com/Guyon-J/Coculture_Gliomas-Neurons/blob/main/Images/SpheroidMig.png" height='40'/> XXX <br><br><hr>
 
 
 
 
 ## How to Cite
-Guyon, J., Strale, P-O., Romero-Garmendia, I., Bikfalvi, A., Studer, V. and Daubon, T. DOI: [In Revision](https://dx.doi.org/10.3791/60998)
+Guyon, J., Strale, P-O., Romero-Garmendia, I., Bikfalvi, A., Studer, V. and Daubon, T. DOI: [In Revision](https://)
 
 
 
