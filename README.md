@@ -9,7 +9,7 @@ Copy and past the .ijm file in the Fiji.app folder > macros > toolsets.
 
 
 ## Tool icons
-1. Network Analysis <br> <img align='left' src="https://github.com/Guyon-J/Coculture_Gliomas-Neurons/blob/main/Images/Network.png" height='40'/> XXX <br><br><hr>
+1. Network Analysis <br> <img align='left' src="https://github.com/Guyon-J/Coculture_Gliomas-Neurons/blob/main/Images/Network.png" height='40'/> The neuronal mat is converted into a simple network and tumor cells are added on the network. <br><br><hr>
 2. Single Cell Tracking Analysis <br> <img align='left' src="https://github.com/Guyon-J/Coculture_Gliomas-Neurons/blob/main/Images/SingleCellTrack.png" height='40'/> XXX <br><br><hr>
 3. Multi Cell Tracking (preprocessing) <br> <img align='left' src="https://github.com/Guyon-J/Coculture_Gliomas-Neurons/blob/main/Images/MultiCellTrack.png" height='40'/> XXX <br><br><hr>
 4. Spheroid Migration <br> <img align='left' src="https://github.com/Guyon-J/Coculture_Gliomas-Neurons/blob/main/Images/SpheroidMig.png" height='40'/> XXX <br><br><hr>
