@@ -5,7 +5,10 @@ Have a look at the project's [JOVE](https://www.jove.com/v/60998/a-3d-spheroid-m
 
 
 ## Installation Instructions
-Copy and past the .ijm file in the Fiji.app folder > macros > toolsets.
+In [Fiji](https://fiji.sc/) window, open Plugins > Macros > Startup Macros... and copy and past the code >> __[here]()__ <<. 
+Change the language into IJ1 Macro and save as .ijm file in the Fiji.app folder > macros > toolsets.
+
+Select the tool in the "More Tools" menu (**>>**)
 
 
 ## Tool icons
