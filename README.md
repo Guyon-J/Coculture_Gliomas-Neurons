@@ -1,6 +1,6 @@
-# An analysis tool for glioblastoma & neurons coculture 
+# An analysis tool for glioblastoma & neuron coculture 
 
-This tool will propose several worflow process or pre-processing for the analyse of the cancer cells behaviour in a mat of neurons.
+This tool proposes several worflow processes for analyzing cancer cells behaviors on a neuronal network.
 Have a look at the project's [JOVE](https://www.jove.com/v/60998/a-3d-spheroid-model-for-glioblastoma) to get more information about the image analysis tools.
 
 
