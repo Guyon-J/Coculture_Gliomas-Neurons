@@ -21,7 +21,9 @@ Select the tool in the "More Tools" menu (**>>**)
 
 
 ## How to Cite
-Guyon, J., Strale, P-O., Romero-Garmendia, I., Bikfalvi, A., Studer, V. and Daubon, T. DOI: [In Revision](https://)
+<br> [<img align='right' src="https://www.jove.com/img/logo_share.jpg" height='75'/>](https://www.jove.com/t/60998/a-3d-spheroid-model-for-glioblastoma)
+Guyon, J., Strale, P-O., Romero-Garmendia, I., Bikfalvi, A., Studer, V. and Daubon, T. DOI: [In Revision](https://). <br>
+
 
 
 
