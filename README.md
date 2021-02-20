@@ -31,6 +31,3 @@ Select the tool in the "More Tools" menu (**>>**)
 ## Compatibility
 
 This toolset was developed on window 10, and tested using ImageJ v1.53. Many features require installation of command line tools that may present future challenges on different operating systems.
-
-## Authors
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-6692-2890" href="https://orcid.org/0000-0001-6692-2890" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-6692-2890</a></div>
