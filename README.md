@@ -1,7 +1,7 @@
 # An analysis tool for glioblastoma & neuron coculture 
 
 This tool proposes several worflow processes for analyzing cancer cells behaviors on a neuronal network.
-Have a look at the project's [JOVE](https://www.jove.com/v/60998/a-3d-spheroid-model-for-glioblastoma) to get more information about the image analysis tools.
+Have a look at the project's [Cancer Feature Analysis](https://github.com/Guyon-J/Cancer_Feature_Analysis/wiki) to get more information about the image analysis tools.
 
 
 ## Installation Instructions
