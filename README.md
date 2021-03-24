@@ -24,7 +24,7 @@ Select the tool in the "More Tools" menu (**>>**)
 <br> [<img align='right' src="https://www.jove.com/img/logo_share.jpg" height='75'/>](https://www.jove.com)
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-6692-2890" href="https://orcid.org/0000-0001-6692-2890" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">Guyon, J.</a>, Strale, P-O., Romero-Garmendia, I., Bikfalvi, A., Studer, V. and <itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0319-7617" href="https://orcid.org/0000-0002-0319-7617" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">Daubon, T.</a> 
   
-Co-culture of Glioblastoma Stem-like Cells on Patterned Neurons to Study Migration and Cellular Interactions. DOI: [10.3791/62213](https://www.jove.com/t/62213/co-culture-glioblastoma-stem-like-cells-on-patterned-neurons-to-study?status=a64219k). <br>
+Co-culture of Glioblastoma Stem-like Cells on Patterned Neurons to Study Migration and Cellular Interactions. DOI: [10.3791/62213](https://www.jove.com/t/62213/co-culture-glioblastoma-stem-like-cells-on-patterned-neurons-to-study). <br>
 
 
 
