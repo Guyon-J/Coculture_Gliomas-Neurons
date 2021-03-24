@@ -5,7 +5,7 @@ Have a look at the project's [Cancer Feature Analysis](https://github.com/Guyon-
 
 
 ## Installation Instructions
-In [Fiji](https://fiji.sc/) window, open Plugins > Macros > Startup Macros... and copy and past the code >> __[here](https://github.com/Guyon-J/Coculture_Gliomas-Neurons/blob/main/Macros/Gliomas-Neurons.v1.ijm)__ <<. 
+In [Fiji](https://fiji.sc/) window, open Plugins > Macros > Startup Macros... and copy and past the code >> __[here](https://raw.githubusercontent.com/Guyon-J/Coculture_Gliomas-Neurons/main/Macros/Gliomas-Neurons.v1.ijm)__ <<. 
 Change the language into IJ1 Macro and save as .ijm file in the Fiji.app folder > macros > toolsets.
 
 Select the tool in the "More Tools" menu (**>>**)
